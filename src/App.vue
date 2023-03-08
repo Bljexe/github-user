@@ -1,9 +1,9 @@
 <script setup>
-import CompositionApi from "./components/CompositionApi.vue";
+import Github from "./components/Github.vue";
 </script>
 
 <template>
-    <CompositionApi/>
+    <Github/>
 </template>
 
 <style>
